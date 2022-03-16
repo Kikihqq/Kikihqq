@@ -1,10 +1,7 @@
-### Hi there :girl: :tiger: 
+### Hi there :tiger: ~
 
 <!--
-**Kikihqq/Kikihqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+**Kikihqq/Kikihqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
 <h1 align="center">Hi 👋, I'm Huiqing Zhang(张惠晴)</h1>
 <h3 align="center">I am a graduate student in Hunan University.</h3>
