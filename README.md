@@ -1,4 +1,4 @@
-### Hi there :tiger: ~
+### Hi there :tiger: ～！
 
 <h2>Hi :relaxed:, I'm Huiqing Zhang ——张惠晴 :girl: :yellow_heart:</h1>
 <h3>I am a graduate student in Hunan University.</h3>
