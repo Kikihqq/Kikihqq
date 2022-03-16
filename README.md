@@ -12,6 +12,7 @@
 - 📫 Contact me at **huiq@hnu.edu.cn / HuiqingZh@outlook.com**
 
 <h2>Education</h2>
+
 - :star2: Master candidate at College of Computer Science and Electronic Engineering,Hunan University
 
 - :star: Bachelor student at School of Computer & Information Engineering, Jiangxi Normal University
