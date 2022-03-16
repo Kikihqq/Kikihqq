@@ -13,7 +13,10 @@
 
 <h2>Education</h2>
 - :star2: Master candidate at College of Computer Science and Electronic Engineering,Hunan University
+- 
 - :star: Bachelor student at School of Computer & Information Engineering, Jiangxi Normal University
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikihqq&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
