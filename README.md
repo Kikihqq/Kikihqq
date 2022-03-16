@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Visual SLAM，Deep Learning**
 
-- :purple_heart: My research interests are **Computational Photography,Computer Vision**
+- :cherries: My research interests are **Computational Photography,Computer Vision**
 
-- 📫 How to reach me **huiq@hnu.edu.cn/HuiqingZh@outlook.com**
+- 📫 Contact me at **huiq@hnu.edu.cn / HuiqingZh@outlook.com**
 
 <!--
 **Kikihqq/Kikihqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
