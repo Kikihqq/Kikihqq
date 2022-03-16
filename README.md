@@ -23,7 +23,7 @@
 
 - :candy: **[CNBLOG: 惠晴会晴的piu~](https://www.cnblogs.com/huihuipiuki/)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikihqq&count_private=true&theme=maroongold&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikihqq&count_private=true&theme=default&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
