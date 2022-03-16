@@ -1,6 +1,6 @@
-### Hi there :tiger: ~~
+### Hi there :partly_sunny::jack_o_lantern::strawberry:~
 
-<h2>Hi :relaxed:, I'm Huiqing Zhang —— 张惠晴 :girl: </h2>
+<h2>Hi :relaxed:, I'm Huiqing Zhang —— 张惠晴 :two_hearts: </h2>
 <h3>I am a master candidate at Hunan University.</h3>
 
 - 🔭 I’m currently working on **Camera Synchronize**
@@ -23,7 +23,7 @@
 
 - :candy: **[CNBLOG: 惠晴会晴的piu~](https://www.cnblogs.com/huihuipiuki/)**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikihqq&count_private=true&theme=default&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kikihqq&count_private=true&theme=solarized-light&show_icons=true&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
