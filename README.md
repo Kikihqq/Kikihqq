@@ -21,7 +21,7 @@
 
 - :tomato: **[CSDN: Nismilesucc](https://blog.csdn.net/Nismilesucc?spm=1001.2101.3001.5343)**
 
-- :candy: **[CNBLOG:惠晴会晴的piu~](https://www.cnblogs.com/huihuipiuki/)**
+- :candy: **[CNBLOG: 惠晴会晴的piu~](https://www.cnblogs.com/huihuipiuki/)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kikihqq&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
