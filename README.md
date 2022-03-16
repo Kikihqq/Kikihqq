@@ -1,7 +1,7 @@
 ### Hi there :tiger: ~~
 
 <h2>Hi :relaxed:, I'm Huiqing Zhang —— 张惠晴 :girl: </h2>
-<h3>I am a graduate student in Hunan University.</h3>
+<h3>I am a master candidate at Hunan University.</h3>
 
 - 🔭 I’m currently working on **Camera Synchronize**
 
