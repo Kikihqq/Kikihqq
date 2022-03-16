@@ -13,9 +13,9 @@
 
 <h2>Education</h2>
 
-- :golf: Master candidate at College of Computer Science and Electronic Engineering,Hunan University
+- :golf: **Master candidate** at College of Computer Science and Electronic Engineering, Hunan University
 
-- :hearts: Bachelor student at School of Computer and Information Engineering, Jiangxi Normal University
+- :hearts: **Bachelor student** at School of Computer and Information Engineering, Jiangxi Normal University
 
 
 
