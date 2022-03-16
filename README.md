@@ -1,7 +1,8 @@
 ### Hi there :tiger: ~
 
-<h1 align="center">Hi 👋, I'm Huiqing Zhang(张惠晴)</h1>
+<h1 align="center">Hi :innocent:, I'm Huiqing Zhang(张惠晴)</h1>
 <h3 align="center">I am a graduate student in Hunan University.</h3>
+
 - 🔭 I’m currently working on **Camera Synchronize**
 
 - 🌱 I’m currently learning **Visual SLAM，Deep Learning**
