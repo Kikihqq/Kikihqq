@@ -1,6 +1,6 @@
 ### Hi there :tiger: ~
 
-<h2>Hi :innocent:, I'm Huiqing Zhang ——张惠晴:innocent::yellow_heart:</h1>
+<h2>Hi :blush:, I'm Huiqing Zhang ——张惠晴 :girl: :yellow_heart:</h1>
 <h3>I am a graduate student in Hunan University.</h3>
 
 - 🔭 I’m currently working on **Camera Synchronize**
