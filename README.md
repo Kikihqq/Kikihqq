@@ -1,4 +1,4 @@
-### Hi there :partly_sunny: :jack_o_lantern:~
+### Hi there ~ :partly_sunny: :jack_o_lantern:
 
 <h2>Hi :relaxed:, I'm Huiqing Zhang —— 张惠晴 :strawberry: </h2>
 <h3>I am a master candidate at Hunan University.</h3>
