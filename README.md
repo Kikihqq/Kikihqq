@@ -3,7 +3,7 @@
 <h2>Hi :relaxed:, I'm Nismile :strawberry: </h2>
 <h3>I am a master candidate at Hunan University.</h3>
 
-- 🔭 I’m currently working on **Neural Rendering,Camera Synchronize**
+- 🔭 I’m currently working on **Neural Rendering, Camera Synchronize**
 
 - 🌱 I’m currently learning **Visual SLAM, Deep Learning**
 
