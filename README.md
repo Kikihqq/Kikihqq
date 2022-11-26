@@ -1,6 +1,6 @@
 ### Hi there ~ :partly_sunny: :jack_o_lantern:
 
-<h2>Hi :relaxed:, I'm Nismile :strawberry: </h2>
+<h2>Hi :relaxed:, I'm Huiqing Zhang :strawberry: </h2>
 <h3>I am a master candidate at Hunan University.</h3>
 
 - 🔭 I’m currently working on **Neural Rendering, Camera Synchronize**
