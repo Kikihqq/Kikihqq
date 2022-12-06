@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Visual SLAM, Deep Learning**
 
-- :cherries: My research interests are **Computational Photography, Computer Vision**
+- :cherries: My research interests are **Computational Photography, 3D Computer Vision**
 
 - 📫 Contact me at **huiq@hnu.edu.cn / HuiqingZh@outlook.com**
 
