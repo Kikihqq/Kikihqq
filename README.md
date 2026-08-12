@@ -9,13 +9,8 @@
 
 - :cherries: My research interests are **Computational Photography, 3D Computer Vision**
 
-- 📫 Contact me at **huiq@hnu.edu.cn / HuiqingZh@outlook.com**
+- 📫 Contact me at **huiq@hnu.edu.cn**
 
-<h2>Education</h2>
-
-- :golf: **Master candidate** at the College of Computer Science and Electronic Engineering, **Hunan University**
-
-- :hearts: **Bachelor student** at the School of Computer and Information Engineering, **Jiangxi Normal University**
 
 <h2>Blogs</h2>
 
